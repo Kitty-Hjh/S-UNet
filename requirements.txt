@@ -1,0 +1,10 @@
+evalutils==0.3.1
+scikit-learn==0.24.2
+scipy==1.6.3
+nnUNET
+matplotlib
+einops
+nibabel
+torchio
+segmentation_models_pytorch
+connected-components-3d
